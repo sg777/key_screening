@@ -1,3 +1,31 @@
+Trial: 1097558009, Hash: 4c8201002ea858192080808802108154d8628428, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQbpx61ChatKb0sAR
+VCTIUoAm/qGo+7TTtoOF+oglWzmhRANCAATtm11579pqEJJvHIPdiH2Zu2pTxbnV
+MAuJSRq7uu2fEjj4glbiqY/yMQseHI9wRwiAKthjZA91eKz0+hAT3n3m
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Ztdee/aahCSbxyD3Yh9mbtqU8W5
+1TALiUkau7rtnxI4+IJW4qmP8jELHhyPcEcIgCrYY2QPdXis9PoQE9595g==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 1782469240, Hash: b9400304028104062e298c04461009220b202182, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDKcZ7JtXYXenKYdN
+C+8LwiourbtAqaFZeVIye4BhzLehRANCAAQ4sttzKaC9gsYvFu7YXRJ0VwKFm8w5
+h4eaqo1AlbewZqoN5/EPmzeylu56ja6XCq5gskH0iLIIZ8Q20yeTjBCL
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOLLbcymgvYLGLxbu2F0SdFcChZvM
+OYeHmqqNQJW3sGaqDefxD5s3spbueo2ulwquYLJB9IiyCGfENtMnk4wQiw==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
 Trial: 7922640, Hash: 50082e0229420002120009807fc40304298b2420, Zeros: 118, Ones: 42
 Private Key:
 -----BEGIN PRIVATE KEY-----
@@ -40,3 +68,4 @@ SMfBd8lcBNmRFijza7OHZ/049n/NmXO6U86C2MEArVEWYdj3jFBdx5FGWA==
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
+
