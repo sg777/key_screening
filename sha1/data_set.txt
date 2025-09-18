@@ -418,7 +418,7 @@ Q8mbuAZ9yB8EFPvFOAqlNNoC0JQr0klxr5MBedNkLMxGSZAz81DzCDET8g==
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
-Trial: -1392758866, Hash: 480743c0b90d9036420019180081000909608804, Zeros: 118, Ones: 4                                                                                             2
+Trial: -1392758866, Hash: 480743c0b90d9036420019180081000909608804, Zeros: 118, Ones: 42
 Private Key:
 -----BEGIN PRIVATE KEY-----
 MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBk7I2BvxYVrAam4+
@@ -432,7 +432,7 @@ SMfBd8lcBNmRFijza7OHZ/049n/NmXO6U86C2MEArVEWYdj3jFBdx5FGWA==
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
-Trial: -1237443661, Hash: 4c3404080100183b60cb001180b321a401401604, Zeros: 118, Ones: 4                                                                                             2
+Trial: -1237443661, Hash: 4c3404080100183b60cb001180b321a401401604, Zeros: 118, Ones: 42
 Private Key:
 -----BEGIN PRIVATE KEY-----
 MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgMBHFJ01ixLsoa6AF
@@ -446,7 +446,7 @@ gKRA5dRtrVlH3kPUD4gcFPDVCN921UJZnwjvgIxqmSsNJMbkhffMYbXA9A==
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
-Trial: -1225339594, Hash: f2020096030015000435188803ea0006a0480074, Zeros: 119, Ones: 4                                                                                             1
+Trial: -1225339594, Hash: f2020096030015000435188803ea0006a0480074, Zeros: 119, Ones: 41
 Private Key:
 -----BEGIN PRIVATE KEY-----
 MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg2CQ4rrW7l8ptz6Xq
