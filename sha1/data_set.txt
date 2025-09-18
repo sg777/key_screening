@@ -1,73 +1,3 @@
-Trial: 1097558009, Hash: 4c8201002ea858192080808802108154d8628428, Zeros: 118, Ones: 42
-Private Key:
------BEGIN PRIVATE KEY-----
-MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgQbpx61ChatKb0sAR
-VCTIUoAm/qGo+7TTtoOF+oglWzmhRANCAATtm11579pqEJJvHIPdiH2Zu2pTxbnV
-MAuJSRq7uu2fEjj4glbiqY/yMQseHI9wRwiAKthjZA91eKz0+hAT3n3m
------END PRIVATE KEY-----
-Public Key:
------BEGIN PUBLIC KEY-----
-MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Ztdee/aahCSbxyD3Yh9mbtqU8W5
-1TALiUkau7rtnxI4+IJW4qmP8jELHhyPcEcIgCrYY2QPdXis9PoQE9595g==
------END PUBLIC KEY-----
-
---------------------------------------------------------------------------------
-Trial: 1782469240, Hash: b9400304028104062e298c04461009220b202182, Zeros: 118, Ones: 42
-Private Key:
------BEGIN PRIVATE KEY-----
-MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgDKcZ7JtXYXenKYdN
-C+8LwiourbtAqaFZeVIye4BhzLehRANCAAQ4sttzKaC9gsYvFu7YXRJ0VwKFm8w5
-h4eaqo1AlbewZqoN5/EPmzeylu56ja6XCq5gskH0iLIIZ8Q20yeTjBCL
------END PRIVATE KEY-----
-Public Key:
------BEGIN PUBLIC KEY-----
-MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOLLbcymgvYLGLxbu2F0SdFcChZvM
-OYeHmqqNQJW3sGaqDefxD5s3spbueo2ulwquYLJB9IiyCGfENtMnk4wQiw==
------END PUBLIC KEY-----
-
---------------------------------------------------------------------------------
-Trial: 7922640, Hash: 50082e0229420002120009807fc40304298b2420, Zeros: 118, Ones: 42
-Private Key:
------BEGIN PRIVATE KEY-----
-MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgypZIXZvwlrEI+V+2
-0+W31W/l0QXsaoMXEnDX8jE/sHihRANCAASYvHo9E9t19EfGDf7r5hdqMGdAzZR8
-L9pmdWh2yvdoN6CoszTQkDRs7cgEK5wK01KjKv22QY4KU3qqkZGkhJM5
------END PRIVATE KEY-----
-Public Key:
------BEGIN PUBLIC KEY-----
-MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmLx6PRPbdfRHxg3+6+YXajBnQM2U
-fC/aZnVodsr3aDegqLM00JA0bO3IBCucCtNSoyr9tkGOClN6qpGRpISTOQ==
------END PUBLIC KEY-----
-
---------------------------------------------------------------------------------
-Trial: 1176479891, Hash: d108006e304c92120a00500c8208a312220800c4, Zeros: 119, Ones: 41
-Private Key:
------BEGIN PRIVATE KEY-----
-MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmyT5R23U8Z/BPx2Q
-FUcRlovwtgTjvWBzI77xH4p8eM2hRANCAATHFSM9Mm6TAKBJK59fRUHWBHxIhK1D
-yZu4Bn3IHwQU+8U4CqU02gLQlCvSSXGvkwF502QszEZJkDPzUPMIMRPy
------END PRIVATE KEY-----
-Public Key:
------BEGIN PUBLIC KEY-----
-MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExxUjPTJukwCgSSufX0VB1gR8SISt
-Q8mbuAZ9yB8EFPvFOAqlNNoC0JQr0klxr5MBedNkLMxGSZAz81DzCDET8g==
------END PUBLIC KEY-----
-
---------------------------------------------------------------------------------
-Trial: -1392758866, Hash: 480743c0b90d9036420019180081000909608804, Zeros: 118, Ones: 42
-Private Key:
------BEGIN PRIVATE KEY-----
-MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgBk7I2BvxYVrAam4+
-csW2V1fMl1FZ7pPq69gquP9lZtihRANCAARQalKVg8h1TncqlsHDcXfM8c1vgOFI
-x8F3yVwE2ZEWKPNrs4dn/Tj2f82Zc7pTzoLYwQCtURZh2PeMUF3HkUZY
------END PRIVATE KEY-----
-Public Key:
------BEGIN PUBLIC KEY-----
-MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUGpSlYPIdU53KpbBw3F3zPHNb4Dh
-SMfBd8lcBNmRFijza7OHZ/049n/NmXO6U86C2MEArVEWYdj3jFBdx5FGWA==
------END PUBLIC KEY-----
-
---------------------------------------------------------------------------------
 Trial: 1057753552, Hash: 405bb481640400202000810000900840e1b48469, Zeros: 122, Ones: 38
 Private Key:
 -----BEGIN PRIVATE KEY-----
@@ -236,6 +166,146 @@ Yhdg8ECtFV9z15ujqfrAIDLLJlkuPocCVB4CEtYoqwXKef8P2b+/DlkFVg==
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
+Trial: -23860362, Hash: 841052ca3060824002000c03305800e8898c90d0, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgclSiLrYi8xXamJAl
+3/v5t+Ju0ael3xql8QoyqPtJqZmhRANCAARBPBKqYFgzssj4T8r/DGxadM0aoY1d
+bGNROgBG1qq6JsyZ0PnTOwUSoo5BEeaS3DGDgJRZjEjkOBIr8ixDIX4a
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQTwSqmBYM7LI+E/K/wxsWnTNGqGN
+XWxjUToARtaquibMmdD50zsFEqKOQRHmktwxg4CUWYxI5DgSK/IsQyF+Gg==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 927043439, Hash: 2400f0002c2404500080a10f00d59aa546100280, Zeros: 119, Ones: 41
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgYdKyRj4WdbZo+Ywn
+iLB0j7SNuufRVA32916Mko1uNP6hRANCAASZpLXOxXPlfj1IiNSIOr6HW75cRLiW
+P4V21rSMh4H44dty6yYfT4NXQok0V5Mr7OkRfiiEqZJBQPJJDYf36oLH
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmaS1zsVz5X49SIjUiDq+h1u+XES4
+lj+Fdta0jIeB+OHbcusmH0+DV0KJNFeTK+zpEX4ohKmSQUDySQ2H9+qCxw==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -1607983585, Hash: 01e24284204a0421886000090a42a0e0018206c1, Zeros: 121, Ones: 39
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgVGT01oLrlEwIujN8
+c2jPY+SWG9odlIXhzftTeDs4IFWhRANCAARhbHVfQ+L07qJyqJ3bc7LDizEe6elA
+lTyjBjTXs6r4M+gVBCD/6Cr6kBxz9nwZZAB0EYv2GxJll/sCSTFbdoJW
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYWx1X0Pi9O6icqid23Oyw4sxHunp
+QJU8owY017Oq+DPoFQQg/+gq+pAcc/Z8GWQAdBGL9hsSZZf7AkkxW3aCVg==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -1183005651, Hash: 020809400051a48e35400a941c401c8450980818, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgGwP3lorq4fZtEY+A
+x73O4Hr/k893uOgE4iuv2MYg9cihRANCAARQ9FSk9osBa8HB+hzIqILet1Ni88wo
+f1pFOvCE8e5qCLxpCIKqnFbnq4jP0s+CNhfs+Nt8Yxm0HaPaIijPveaT
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUPRUpPaLAWvBwfocyKiC3rdTYvPM
+KH9aRTrwhPHuagi8aQiCqpxW56uIz9LPgjYX7PjbfGMZtB2j2iIoz73mkw==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -414934075, Hash: 0e82915900001800d4c2285008c904e014071082, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQghNwInu5563pr0BBe
+GxgAk6lW2oRWcZDrdJeS+rsFZIGhRANCAATqlY8wjUrwysoX3F/KiCLoGTftUbwt
+aSEgVug/ONmIMwE9O21e/sscwhn4XzmKd4npuLRVps09M6ccxGWuqyjQ
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6pWPMI1K8MrKF9xfyogi6Bk37VG8
+LWkhIFboPzjZiDMBPTttXv7LHMIZ+F85ineJ6bi0VabNPTOnHMRlrqso0A==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -107930638, Hash: 2500803e04402017c502020330244604711a4050, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgUZFHjJU3kn14bfqG
+/9aLkcSxFVF9A9zdsw+J9UJfvyihRANCAASvUM3LsIndtByO7DkVYYdi7rlJw/iW
+jrcNdjfEMVZGWl7p1/0bgg0QqtO+EiFrV9M+ggLP33U2WB7eFF4rCs4i
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEr1DNy7CJ3bQcjuw5FWGHYu65ScP4
+lo63DXY3xDFWRlpe6df9G4INEKrTvhIha1fTPoICz991Nlge3hReKwrOIg==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 34836982, Hash: 01218d63012a2020102425d9000d80880c424206, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgcw1jZPm3EX6LqWtm
+Zb6GoLj/CQkZFYn9V6cwIz42HAqhRANCAASZBvs61Aa6phTqZ4EKfV38xUgFVKww
+WFZwQbBoLqsjCu7IL6OPHYIOOnG+VGUkAO1e8Wv8nFY9FjArSHnxVMAx
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEmQb7OtQGuqYU6meBCn1d/MVIBVSs
+MFhWcEGwaC6rIwruyC+jjx2CDjpxvlRlJADtXvFr/JxWPRYwK0h58VTAMQ==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 1250667247, Hash: a68019810032a42487a0c108700b408000408e04, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg8p2eREV4/W43vi9p
+2UrEA2YWMPWwfSFF8FotHCmc0KGhRANCAARP35d2ZkwRPpjUnkJQOHvtn6dUNPGz
+k44gpxhtuKVpamCUEmbEJkMCxSBtiR9tZDXZShB27EIu0Fb8OHI4CQkQ
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAET9+XdmZMET6Y1J5CUDh77Z+nVDTx
+s5OOIKcYbbilaWpglBJmxCZDAsUgbYkfbWQ12UoQduxCLtBW/DhyOAkJEA==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 1358243783, Hash: 129218307521460507100a0000a0a980a28005c0, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgUtBa2TsKxdLZSHzg
+J3+mWzzn8B9Y/lCFcleD+dmpxEyhRANCAAQhkrt4LNVssMuJZYJS81PHr8Dz3HB0
+HeoJA5in9Yggen3WPf9mPZNrELRzKC7cWFwH7UMKuXFOFKkiRly2Kjfh
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIZK7eCzVbLDLiWWCUvNTx6/A89xw
+dB3qCQOYp/WIIHp91j3/Zj2TaxC0cygu3FhcB+1DCrlxThSpIkZctio34Q==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: 1880892464, Hash: 3c5040402640208572080428c982744808050098, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg9DAObG7T/1vAU+bS
+C8qoP46+rwIen28XbEXwTf1pbzShRANCAATUe7ypnchOWZh4sxXVHTeaNzw5ZemU
+dGCGGjrf/SEmxwc9j3w7DESasB1dg+JO4oPCRfY2za5t8M02gsOozvJY
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1Hu8qZ3ITlmYeLMV1R03mjc8OWXp
+lHRghho63/0hJscHPY98OwxEmrAdXYPiTuKDwkX2Ns2ubfDNNoLDqM7yWA==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
 Trial: 182224565, Hash: 11d2002003404d3800240c032c2c801121444021, Zeros: 121, Ones: 39
 Private Key:
 -----BEGIN PRIVATE KEY-----
@@ -264,4 +334,59 @@ MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGitV/W5fqVe7dcIhqKdnbUdsMZuq
 -----END PUBLIC KEY-----
 
 --------------------------------------------------------------------------------
+Trial: -2105811523, Hash: 0e00880668004744aa412e001880090103015419, Zeros: 119, Ones: 41
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgZNszZTOEXdyWSa7o
+1kWa+CaHYaYb9tYutDYjY51k4RKhRANCAAQGUiGSAYPhnz3ePNOWZDNnd0fXetQi
+1QdKMIO33irnjZbp/6C+719z6oc4Lk1rE+mgRf7k+jxWC7og4DIJfnJ4
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEBlIhkgGD4Z893jzTlmQzZ3dH13rU
+ItUHSjCDt94q542W6f+gvu9fc+qHOC5NaxPpoEX+5Po8Vgu6IOAyCX5yeA==
+-----END PUBLIC KEY-----
 
+--------------------------------------------------------------------------------
+Trial: -1548858458, Hash: 600134101810023146448180d829202280c004dc, Zeros: 119, Ones: 41
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5yEWRqhnkW3B7K2T
+zra2G8dsaI6Gbd3pKIZqGZD+3PGhRANCAAQfan6LTi6w8nQlP8DL/JeENxENosM4
+z46rxHylVHGruj4wiTILO+9NB6SLveltJLRxUYK3YInDngX3+jFQ7IKl
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH2p+i04usPJ0JT/Ay/yXhDcRDaLD
+OM+Oq8R8pVRxq7o+MIkyCzvvTQeki73pbSS0cVGCt2CJw54F9/oxUOyCpQ==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -784463527, Hash: 06ca53c0040ca3581030d0085601002404302402, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgi51ACJOllAWrvGOY
+jVMPeVsdM/JGxajzE0Diyz+apjihRANCAAR2zaP3AuQaByn/Bm1FrgYKFECDrtym
+9xm/VxZZ717shW2EgR3D1I6DCy6uo1zBG3iB3ys0AD+km9aYtKtJMsJK
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEds2j9wLkGgcp/wZtRa4GChRAg67c
+pvcZv1cWWe9e7IVthIEdw9SOgwsurqNcwRt4gd8rNAA/pJvWmLSrSTLCSg==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
+Trial: -671161977, Hash: 5106e2400dc20014000c5033403e044016200906, Zeros: 118, Ones: 42
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmDIgKlohmYKPXT3d
+pGEwxgfHcUnufGV5nzIwvLSoDpuhRANCAAQ0QQjOUZNDko1oYWYZvhJRennI+3mz
+cE+kZWT/11rP1Xi5ZN+j5C+op4lC89GkOPWkyC8IeW0u6sn6N80KLiyl
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENEEIzlGTQ5KNaGFmGb4SUXp5yPt5
+s3BPpGVk/9daz9V4uWTfo+QvqKeJQvPRpDj1pMgvCHltLurJ+jfNCi4spQ==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
