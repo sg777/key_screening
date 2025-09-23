@@ -1,0 +1,14 @@
+Trial: 1468192021, New Hash: f567dfe7b9aab4abdae565fd419dbd9bde5fce7e, Zeros: 56, Ones: 104, Superset of: 01218d63012a2020102425d9000d80880c424206, Extra 1's: 62
+Private Key:
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgTInh0W+Pvo0tPp7Z
+QRDmCX5IWKIdMYIzGfjgS2zHpMyhRANCAARDorgHBkLVvdS9GeAI4H6GwnDAr5Ky
+2wKO0CZwT8kUKs3LDaIFQl/5QiPYyYkPdCv2b3m7mRv2PF5+hzz6JE/t
+-----END PRIVATE KEY-----
+Public Key:
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEQ6K4BwZC1b3UvRngCOB+hsJwwK+S
+stsCjtAmcE/JFCrNyw2iBUJf+UIj2MmJD3Qr9m95u5kb9jxefoc8+iRP7Q==
+-----END PUBLIC KEY-----
+
+--------------------------------------------------------------------------------
